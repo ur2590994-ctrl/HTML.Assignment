@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTKARSH RAJ</title>
+    <style>
+        #_first {
+            height: 250px;
+            width: 250px;
+            background-color: #FFB238;
+            padding: 20px;
+            border: 10px solid black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        #_second {
+            height: 250px;
+            width: 250px;
+            background-color: #f19143;
+            padding: 20px;
+            border: 10px solid black;
+            margin-left: 310px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        #_thrid {
+            height: 250px;
+            width: 250px;
+            background-color: #ff773d;
+            padding: 20px;
+            border: 10px solid black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        img {
+            max-width: fit-content;
+            max-height: fit-content;
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="_first">
+        <img src="https://www.99acres.com/microsite/articles/files/2023/11/house-number-1.jpg"
+            alt="1">
+    </div>
+    <div id="_second">
+        <img src="https://t3.ftcdn.net/jpg/04/90/51/96/360_F_490519696_8s6Vun3SKBcvGIABSNH1xhfMAloubVJE.jpg"
+            ali="2">
+    </div>
+    <div id="_thrid">
+        <img src="https://www.shutterstock.com/image-illustration/3d-render-number-three-digital-260nw-2236107939.jpg"
+            alt="3">
+    </div>
+
+
+</body>
+
+</html>
